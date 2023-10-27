@@ -1,0 +1,27 @@
+{
+  "name": "discord-js-template",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node . --debug"
+  },
+  "keywords": [],
+  "author": "Pixelicious",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "description": "Discord JS v14 template for Discord. Base used for all my projects!",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixeliciousx/discord-js-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pixeliciousx/discord-js-template/issues"
+  },
+  "homepage": "https://github.com/Pixeliciousx/discord-js-template#readme"
+}
