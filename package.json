@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
-    "test": "node . --debug"
+    "start": "node .",
+    "debug": "node . --debug"
   },
   "keywords": [],
   "author": "Pixelicious",
